@@ -1,0 +1,9 @@
+module.exports.login = require('./login');
+module.exports.register = require('./register');
+module.exports.getUser = require('./getUser');
+module.exports.changeUser = require('./changeUser');
+module.exports.changePass = require('./changePass');
+module.exports.deleteUser = require('./deleteUser');
+module.exports.profilePage = require('./profilePage');
+module.exports.homePage = require('./homePage');
+module.exports.searchUser = require('./searchUser');

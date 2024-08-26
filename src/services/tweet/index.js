@@ -1,0 +1,12 @@
+module.exports.tweet = require('./tweet');
+module.exports.getTweet = require('./getTweet');
+module.exports.changeTweet = require('./changeTweet');
+module.exports.deleteTweet = require('./deleteTweet');
+module.exports.quote = require('./quote');
+module.exports.retweet = require('./retweet');
+module.exports.like = require('./like');
+module.exports.destroyLike = require('./destroyLike');
+module.exports.comment = require('./comment');
+module.exports.pressContent = require('./pressContent');
+module.exports.getQuotes = require('./getQuotes');
+module.exports.getRetweets = require('./getRetweets');
